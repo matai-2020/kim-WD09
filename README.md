@@ -1,6 +1,6 @@
 # JAMStacking exercise
 
-This exercise used the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/) to create a build a static website with JavaScript, CSS and HTML.
+This exercise started with the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/) to create a build a static website with JavaScript, CSS and HTML.
 
 ## Set up Environment
 
@@ -34,9 +34,9 @@ This line creates a new folder called [SITE_DIRECTORY_NAME]  with a boilerplate 
 
 Alternatively  leave this last URL empty to use the [gatsby-starter-default](https://github.com/gatsbyjs/gatsby-starter-default).
 
-For this exercise I used this [Gatsby starter with Netlify CMS and Bulma styling](https://www.gatsbyjs.org/starters/netlify-templates/gatsby-starter-netlify-cms/).
+For this exercise I reviewed the available Gatsy themes and used this [Gatsby starter with Netlify CMS and Bulma styling](https://www.gatsbyjs.org/starters/netlify-templates/gatsby-starter-netlify-cms/).
 
-- Install the [Netlify CLI](https://github.com/netlify/cli) to deploy the site:
+- Install the [Netlify CLI](https://github.com/netlify/cli) to be able to deploy the site:
 
 `npm install netlify-cli -g`
 
@@ -51,7 +51,7 @@ For this exercise I used this [Gatsby starter with Netlify CMS and Bulma styling
 
 - View site locally in `http://localhost:8000/`
 
-- Open code editor such as VS Code.
+- Open code editor such as VS Code, and start coding.
 
 ## Gatsby Styling
 
@@ -62,16 +62,19 @@ Gatsby also works with component scoped CSS for working with React.
 A [CSS Module](https://github.com/css-modules/css-modules) 
 >is a CSS file in which all class names and animation names are scoped locally by default.
 
-In this started there are starter components in the folder with `all.sass` stylesheet:
-
+In this starter there are starter components in the folder with a single `all.sass` [Bulma](https://bulma.io/documentation/overview/classes/) stylesheet:
 .  
 ├── src  ── components  
 
-Layout components are found in the pages folder:
 
+Layout components are found in the pages folder:
 .  
 ├── src  ── pages 
 
+## Data in Gatsby
+
+GraphQL is a query language
+
 ## Site Deployment
 
-A static site can be deployed using [Netlify](https://www.gatsbyjs.org/tutorial/blog-netlify-cms-tutorial/)
+A static site can be deployed using the [Netlify tutorial](https://www.gatsbyjs.org/tutorial/blog-netlify-cms-tutorial/).
