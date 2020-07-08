@@ -81,4 +81,4 @@ With any cache issues, use a gatsby [clean](https://www.gatsbyjs.org/docs/debugg
 
 A static site can be deployed using the [Netlify tutorial](https://www.gatsbyjs.org/tutorial/blog-netlify-cms-tutorial/).
 
-This site is live on https://kim-wd09.netlify.app/
+A new demo site of a fintech company, called ScoreTech, using the starte above is live on https://kim-wd09.netlify.app/
