@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Credit scoring with fine tech
-image: /img/home-jumbotron.jpg
+image: /img/score3.jpg
 heading: Credit scoring with fine tech
 subheading: Adaptable scoring technology
 mainpitch:
@@ -18,9 +18,7 @@ intro:
     - image: /img/star.png
       text: >
         We develop tools that automate credit scoring processes
-    - image: /img/star.png
-      text: >
-        We research the latest credit scoring methodologies
+
   heading: What we offer
   description: >
     ...

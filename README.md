@@ -73,8 +73,12 @@ Layout components are found in the pages folder:
 
 ## Data in Gatsby
 
-GraphQL is a query language
+GraphQL is a query language.
+
+With any cache issues, use a gatsby [clean](https://www.gatsbyjs.org/docs/debugging-cache-issues/) command.
 
 ## Site Deployment
 
 A static site can be deployed using the [Netlify tutorial](https://www.gatsbyjs.org/tutorial/blog-netlify-cms-tutorial/).
+
+A new demo site of a fintech company, called ScoreTech, using the starte above is live on https://kim-wd09.netlify.app/
